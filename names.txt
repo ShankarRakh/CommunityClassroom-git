@@ -2,11 +2,3 @@ Shankar Rakh
 age - 19,
 doing
 
-this is it
-
-now 
-lets 
-see 
-thi s
-is it 
-or not
